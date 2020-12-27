@@ -27,7 +27,7 @@ const Home = () => {
         <meta property="og:site_name" content="CamiloBerrio Store" />
         <meta property="og:locale" content="es_ES" />
         <meta property="og:type" content="article" />
-        <meta property="fb:app_id" content="ID_APP_FACEBOOK" />
+        <meta property="fb:app_id" content="ID_APP_FACEBOOK " />
       </Helmet>
       <Products products={initialState.products} />
     </>
